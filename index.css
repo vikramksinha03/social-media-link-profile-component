@@ -21,6 +21,7 @@ body {
   flex-direction: column;
   height: 100vh;
   width: 100vw;
+  background-color: var(--Grey900);
 }
 
 main {
